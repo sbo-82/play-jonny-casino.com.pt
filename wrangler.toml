@@ -1,0 +1,11 @@
+name = "play-jonny-casino-com-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=play-jonny-casino.com.pt"
+HMAC_KEY = "8a71ee8d6540b680da66f9c6ec16d149f5f9a641f0c43ccb723f4ab2b5053e88"
+COOKIE_NAME = "dkd"
+PLAY_PATH = "visit-site"
+BUTTON_ID = "pd436ef8cbfaf892cf1be83b2eb63d87a"
+GATE_SALT = "832fea8ffd3db610"
